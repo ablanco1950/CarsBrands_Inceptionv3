@@ -67,3 +67,6 @@ References:
 https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/code?resource=download
 
 https://github.com/BotechEngineering/StanfordCarsDatasetCSV/blob/main/cardatasettest.csv
+
+https://medium.com/analytics-vidhya/top-4-pre-trained-models-for-image-classification-with-python-code-a3cb5846248b
+
