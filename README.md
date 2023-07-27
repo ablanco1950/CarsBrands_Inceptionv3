@@ -11,7 +11,7 @@ Download all the files that accompany the CarsBrand_Inceptionv3 project in a sin
 The director file is cardatasettrain.csv downloaded from:
 https://github.com/BotechEngineering/StanfordCarsDatasetCSV/tree/main
 
-Inception_v3 has been chosen as a model due to its speed, since the whole project has been executed on a home laptop.
+Inception_v3 has been chosen as a model due to its speed, since the whole project has been executed on a home laptop (No GPU).
 
 For the training, images 1 to 7000 will be considered as train, from 7000 to 8000 as valid and from 8000 to 8144 as an independent test of the training process.
 
