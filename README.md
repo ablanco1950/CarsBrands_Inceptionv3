@@ -23,15 +23,14 @@ Next, the structure created in the previous step is filled in by executing:
 
 FillDirKaggleCarsByBrand_1_20.py
 
-which part of the downloaded Stanford file is supposed to be located in C:\\archiveKaggle\\cars_train\\cars_train, if not, modify the FillDirKaggleCarsByBrand_1_20.py line so that it points to where the Stanford file is located.
+which part of the downloaded Stanford file is supposed to be located in C:\\archiveKaggle\\cars_train\\cars_train, if not, modify the FillDirKaggleCarsByBrand_1_20.py line 52 so that it points to where the Stanford file is located.
 
-run the train
-
+run the train:
 
 TrainCarsBrandInception_v3CALLBACK_1_20.py
 which comes ready for 100 epoch, designed so that it can run in a reasonable time on a laptop.
 
-If the results of the test are evaluated by executing
+The results of the test are evaluated by executing
 
 GuessCarsBrandsKaggle_Inception_v3_1_20.py
 
@@ -57,13 +56,9 @@ An attempt can be made to improve the results by continuing the training process
 
 TrainCarsBrandInception_v3CALLBACK_1_20CONTINUE.py
 
-It is observed that it continues in epoch 100 until it reaches 200, so when executing.
+It is observed that it continues in epoch 100 until it reaches 200. Then try again
 
 GuessCarsBrandsKaggle_Inception_v3_1_20.py
 
-You get a hit rate of
-
-The test starts as a model of the file
-
-ModelCarsBrands_Inception_v3_1_20.h5, it could be changed using the best_brand_1_20.h5 and keep the one that gave better results.
+ModelCarsBrands_Inception_v3_1_20.h5 is taken as the resulting file with the weigth, it could be changed by best_brand_1_20.h5 , keep the one that gave better results.
 
