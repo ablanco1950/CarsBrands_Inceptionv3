@@ -8,14 +8,8 @@ archive\cars_train\cars_train with 8144 numbered images. This folder should be c
 
 Download all the files that accompany the CarsBrand_Inceptionv3 project in a single folder.
 
-
-
-The .csv downloaded from
-BotechEngineering/StanfordCarsDatasetCSV: Stanford Cars Dataset Test and Train CSV (github.com)
-
+The director file is cardatasettrain.csv downloaded from:
 https://github.com/BotechEngineering/StanfordCarsDatasetCSV/tree/main
-
-cardatasettrain.csv
 
 Inception_v3 has been chosen as a model due to its speed, since the whole project has been executed on a home laptop.
 
