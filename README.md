@@ -73,3 +73,5 @@ https://github.com/BotechEngineering/StanfordCarsDatasetCSV/blob/main/cardataset
 https://medium.com/analytics-vidhya/top-4-pre-trained-models-for-image-classification-with-python-code-a3cb5846248b
 
 https://github.com/afaq-ahmad/Car-Models-and-Make-Classification-Standford_Car_dataset-mobilenetv2-imagenet-93-percent-accuracy/blob/master/Car_classification.ipynb
+
+
