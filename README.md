@@ -62,3 +62,8 @@ GuessCarsBrandsKaggle_Inception_v3_1_20.py
 
 ModelCarsBrands_Inception_v3_1_20.h5 is taken as the resulting file with the weigth, it could be changed by best_brand_1_20.h5 , keep the one that gave better results.
 
+References:
+
+https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/code?resource=download
+
+https://github.com/BotechEngineering/StanfordCarsDatasetCSV/blob/main/cardatasettest.csv
