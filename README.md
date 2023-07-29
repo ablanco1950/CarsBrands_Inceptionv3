@@ -1,6 +1,8 @@
 # CarsBrands_Inceptionv3
 Project that detects the brand of a car, between 1 and 20 brands, that appears in a photograph with a success rate of more than 70%
 
+All used packages, if any are missing, can be installed with a simple pip after de error of missing.
+
 For this, the Stanford car file downloaded from https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/code?resource=download has been used.
 
 When you download and unzip the download file you will see that it contains the directories
