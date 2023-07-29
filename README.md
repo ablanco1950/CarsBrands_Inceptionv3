@@ -62,7 +62,7 @@ It is observed that it continues in epoch 100 until it reaches 200. Then try aga
 
 GuessCarsBrandsKaggle_Inception_v3_1_20.py
 
-ModelCarsBrands_Inception_v3_1_20.h5 is taken as the resulting file with the weigths, it could be changed by best_brand_1_20.h5 , keep the one that gave better results.
+ModelCarsBrands_Inception_v3_1_20.h5 is taken as the resulting file with the weigths, it could be changed by best_brand_1_20.h5 , keep the one that gave better results. This .h5 files are very large (1.9Gb) so they could not be uploaded to Github
 
 As an output, a file is also obtained: BrandsResults.txt with the list of images whose car brands have been correct and the wrong ones with the brands that have been predicted to them.
 
