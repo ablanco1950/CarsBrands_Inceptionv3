@@ -1,5 +1,5 @@
 # CarsBrands_Inceptionv3
-Project that detects the brand of a car, between 1 and 20 brands, that appears in a photograph with a success rate of more than 70% (using a test file that has not been involved in the training as a valid or training file)
+Project that detects the brand of a car, between 1 and 20 brands, that appears in a photograph with a success rate of more than 70% (using a test file that has not been involved in the training as a valid or training file) and can be implemented on a personal computer
 
 All used packages, if any are missing, can be installed with a simple pip after de error of missing.
 
