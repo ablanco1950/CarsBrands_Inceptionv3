@@ -1,5 +1,5 @@
 # CarsBrands_Inceptionv3
-Project that detects the brand of a car, between 1 and 20 brands, that appears in a photograph with a success rate of more than 70% (using a test file that has not been involved in the training as a valid or training file) and can be implemented on a personal computer.
+Project that detects the brand of a car, between 1 and 49 brands ( the 49 brands of Stanford car file), that appears in a photograph with a success rate of more than 70% (using a test file that has not been involved in the training as a valid or training file) and can be implemented on a personal computer.
 
 All used packages, if any are missing, can be installed with a simple pip after de error of missing.
 
@@ -19,13 +19,13 @@ For the training, images 1 to 7000 will be considered as train, from 7000 to 800
 
 You have to create the folder structure that Inception_v3 requires: a directory with 3 folders: train, valid and test. From train and valid hang as many folders as car brands are considered named with the code assigned to each brand. This structure is created by running the program in the download folder of the project:
 
-CreateDirTrainTestCarBrands_1_20.py
+CreateDirTrainTestCarBrands_1_49.py
 
 Next, the structure created in the previous step is filled in by executing:
 
-FillDirKaggleCarsByBrand_1_20.py
+FillDirKaggleCarsByBrand_1_49.py
 
-which part of the downloaded Stanford file is supposed to be located in C:\\archiveKaggle\\cars_train\\cars_train, if not, modify the FillDirKaggleCarsByBrand_1_20.py line 52 so that it points to where the Stanford file is located.
+which part of the downloaded Stanford file is supposed to be located in C:\\archiveKaggle\\cars_train\\cars_train, if not, modify the FillDirKaggleCarsByBrand_1_49.py line 52 so that it points to where the Stanford file is located.
 
 run the train:
 
