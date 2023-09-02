@@ -49,7 +49,7 @@ The results of the training are shown in the attached file lr val_acc 49 epoch 8
 
 lrModelCarsBrands_Inception_v3_1_49.h5 is taken as the resulting file with the weigths, it could be changed by lrbest_brand_1_49.h5 , keep the one that gave better results. This .h5 files are very large (1.9Gb) so they could not be uploaded to Github
 
-As an output, a file is also obtained: BrandsResults.txt with the list of images whose car brands have been correct and the wrong ones with the brands that have been predicted to them.
+As an output, a file is also obtained: BrandsResults.txt with the list of images whose car brands have been correct and the wrong ones with the brands that have been predicted to them and error probabilities.
 
 References:
 
