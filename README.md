@@ -29,12 +29,21 @@ As part of the downloaded Stanford file is supposed to be located in C:\\archive
 
 Run the train:
 
-TrainCarsBrandInception_v3CALLBACK_1_20.py
+lrTrainCarsBrandInception_v3CALLBACK_1_49.py
 which comes ready for 100 epoch, designed so that it can run in a reasonable time on a laptop.
+
+As 100 epoch are not enough to achieve acceptable val_acc values. The program:
+
+lrTrainCarsBrandInception_v3CALLBACK_1_49CONTINUE.py
+
+allows you to continue the epoch, taking advantage of the results of previous steps, simply by modifying the initial number of the epoch and the end and using the one obtained in the preceding step as a model. All of this, as indicated, to allow the training to be executed on a personal computer, dividing the epoch into 10 executions
+
+In the 800-900 epoch range, acceptable results are obtained.
+The results of the training are shown in the attached file lr val_acc 49 epoch 800-900.txt and the results of the test with images from 8000 to 8146, which have not been used as train or valid, in the file ResultsTestCarBrands.txt which is also attached
 
 The results of the test are evaluated by executing
 
-GuessCarsBrandsKaggle_Inception_v3_1_20.py
+lrGuessCarsBrandsKaggle_Inception_v3_1_49.py
 
 you get a hit rate
 
