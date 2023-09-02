@@ -1,0 +1,495 @@
+(alfonso1) c:\CarsBrands_Inceptionv3>python lrGuessCarsBrandsKaggle_Inception_v3_1_49.py
+C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\_distributor_init.py:30: UserWarning: loaded more than 1 DLL from .libs:
+C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\.libs\libopenblas.FB5AE2TYXYH2IJRDKGDGQ3XBKLKTF43H.gfortran-win_amd64.dll
+C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\.libs\libopenblas64__v0.3.21-gcc_10_3_0.dll
+  warnings.warn("loaded more than 1 DLL from .libs:"
+2023-09-02 21:17:52.567384: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 838860800 exceeds 10% of free system memory.
+2023-09-02 21:17:53.250702: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 838860800 exceeds 10% of free system memory.
+2023-09-02 21:17:53.326413: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 838860800 exceeds 10% of free system memory.
+2023-09-02 21:17:55.562550: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 838860800 exceeds 10% of free system memory.
+1/1 [==============================] - 1s 1s/step
+HIT 07999.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 95ms/step
+HIT 08000.jpg is assigned brand 35Mercedes-Benz
+
+1/1 [==============================] - 0s 79ms/step
+HIT 08001.jpg is assigned brand 27Jeep
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08002.jpg is assigned brand 20Geo
+  True brand is 35Mercedes-Benz
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08003.jpg is assigned brand 23Hyundai
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08004.jpg is assigned brand 5BMW
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08005.jpg is assigned brand 23Hyundai
+  True brand is 2Acura
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08006.jpg is assigned brand 23Hyundai
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08007.jpg is assigned brand 10Chevrolet
+  True brand is 5BMW
+
+1/1 [==============================] - 0s 80ms/step
+HIT 08008.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08009.jpg is assigned brand 35Mercedes-Benz
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08010.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08011.jpg is assigned brand 21HUMMER
+  True brand is 1AM
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08012.jpg is assigned brand 28Lamborghini
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08013.jpg is assigned brand 37Nissan
+  True brand is 19GMC
+
+1/1 [==============================] - 0s 79ms/step
+HIT 08014.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08015.jpg is assigned brand 35Mercedes-Benz
+  True brand is 6Bentley
+
+1/1 [==============================] - 0s 95ms/step
+HIT 08016.jpg is assigned brand 2Acura
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08017.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 98ms/step
+ERROR 08018.jpg is assigned brand 10Chevrolet
+  True brand is 2Acura
+
+1/1 [==============================] - 0s 79ms/step
+HIT 08019.jpg is assigned brand 23Hyundai
+
+1/1 [==============================] - 0s 90ms/step
+HIT 08020.jpg is assigned brand 13Dodge
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08021.jpg is assigned brand 5BMW
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08022.jpg is assigned brand 28Lamborghini
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08023.jpg is assigned brand 24Infiniti
+
+1/1 [==============================] - 0s 95ms/step
+ERROR 08024.jpg is assigned brand 35Mercedes-Benz
+  True brand is 33Mazda
+
+1/1 [==============================] - 0s 79ms/step
+HIT 08025.jpg is assigned brand 19GMC
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08026.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08027.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 79ms/step
+HIT 08028.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 79ms/step
+HIT 08029.jpg is assigned brand 18Ford
+
+1/1 [==============================] - 0s 78ms/step
+ERROR 08030.jpg is assigned brand 2Acura
+  True brand is 15FIAT
+
+1/1 [==============================] - 0s 78ms/step
+HIT 08031.jpg is assigned brand 1AM
+
+1/1 [==============================] - 0s 80ms/step
+HIT 08032.jpg is assigned brand 5BMW
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08033.jpg is assigned brand 5BMW
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08034.jpg is assigned brand 23Hyundai
+
+1/1 [==============================] - 0s 78ms/step
+HIT 08035.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 78ms/step
+ERROR 08036.jpg is assigned brand 23Hyundai
+  True brand is 46Toyota
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08037.jpg is assigned brand 18Ford
+  True brand is 10Chevrolet
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08038.jpg is assigned brand 11Chrysler
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08039.jpg is assigned brand 27Jeep
+
+1/1 [==============================] - 0s 95ms/step
+ERROR 08040.jpg is assigned brand 2Acura
+  True brand is 10Chevrolet
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08041.jpg is assigned brand 35Mercedes-Benz
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08042.jpg is assigned brand 8Buick
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08043.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08044.jpg is assigned brand 16Ferrari
+  True brand is 3Astom Martin
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08045.jpg is assigned brand 23Hyundai
+
+1/1 [==============================] - 0s 95ms/step
+ERROR 08046.jpg is assigned brand 2Acura
+  True brand is 46Toyota
+
+1/1 [==============================] - 0s 78ms/step
+HIT 08047.jpg is assigned brand 11Chrysler
+
+1/1 [==============================] - 0s 80ms/step
+ERROR 08048.jpg is assigned brand 10Chevrolet
+  True brand is 5BMW
+
+1/1 [==============================] - 0s 78ms/step
+ERROR 08049.jpg is assigned brand 46Toyota
+  True brand is 10Chevrolet
+
+1/1 [==============================] - 0s 95ms/step
+ERROR 08050.jpg is assigned brand 22Honda
+  True brand is 13Dodge
+
+1/1 [==============================] - 0s 96ms/step
+ERROR 08051.jpg is assigned brand 5BMW
+  True brand is 3Astom Martin
+
+1/1 [==============================] - 0s 78ms/step
+HIT 08052.jpg is assigned brand 29Land Rover
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08053.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 95ms/step
+ERROR 08054.jpg is assigned brand 45Tesla
+  True brand is 18Ford
+
+1/1 [==============================] - 0s 110ms/step
+ERROR 08055.jpg is assigned brand 2Acura
+  True brand is 4Audi
+
+1/1 [==============================] - 0s 96ms/step
+ERROR 08056.jpg is assigned brand 10Chevrolet
+  True brand is 19GMC
+
+1/1 [==============================] - 0s 79ms/step
+HIT 08057.jpg is assigned brand 25Isuzu
+
+1/1 [==============================] - 0s 96ms/step
+HIT 08058.jpg is assigned brand 5BMW
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08059.jpg is assigned brand 19GMC
+
+1/1 [==============================] - 0s 84ms/step
+ERROR 08060.jpg is assigned brand 11Chrysler
+  True brand is 27Jeep
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08061.jpg is assigned brand 35Mercedes-Benz
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08062.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 95ms/step
+ERROR 08063.jpg is assigned brand 27Jeep
+  True brand is 19GMC
+
+1/1 [==============================] - 0s 97ms/step
+HIT 08064.jpg is assigned brand 23Hyundai
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08065.jpg is assigned brand 27Jeep
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08066.jpg is assigned brand 5BMW
+  True brand is 18Ford
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08067.jpg is assigned brand 32Maybach
+  True brand is 28Lamborghini
+
+1/1 [==============================] - 0s 109ms/step
+HIT 08068.jpg is assigned brand 5BMW
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08069.jpg is assigned brand 29Land Rover
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08070.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 111ms/step
+ERROR 08071.jpg is assigned brand 23Hyundai
+  True brand is 48Volvo
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08072.jpg is assigned brand 22Honda
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08073.jpg is assigned brand 6Bentley
+
+1/1 [==============================] - 0s 110ms/step
+ERROR 08074.jpg is assigned brand 2Acura
+  True brand is 10Chevrolet
+
+1/1 [==============================] - 0s 95ms/step
+HIT 08075.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 110ms/step
+ERROR 08076.jpg is assigned brand 2Acura
+  True brand is 17FisKer
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08077.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 95ms/step
+HIT 08078.jpg is assigned brand 44Suzuki
+
+1/1 [==============================] - 0s 95ms/step
+HIT 08079.jpg is assigned brand 18Ford
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08080.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08081.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08082.jpg is assigned brand 5BMW
+
+1/1 [==============================] - 0s 95ms/step
+HIT 08083.jpg is assigned brand 35Mercedes-Benz
+
+1/1 [==============================] - 0s 95ms/step
+HIT 08084.jpg is assigned brand 23Hyundai
+
+1/1 [==============================] - 0s 95ms/step
+HIT 08085.jpg is assigned brand 3Astom Martin
+
+1/1 [==============================] - 0s 109ms/step
+HIT 08086.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 109ms/step
+ERROR 08087.jpg is assigned brand 10Chevrolet
+  True brand is 20Geo
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08088.jpg is assigned brand 47Volkswagen
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08089.jpg is assigned brand 22Honda
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08090.jpg is assigned brand 13Dodge
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08091.jpg is assigned brand 13Dodge
+
+1/1 [==============================] - 0s 96ms/step
+HIT 08092.jpg is assigned brand 13Dodge
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08093.jpg is assigned brand 16Ferrari
+
+1/1 [==============================] - 0s 125ms/step
+HIT 08094.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 128ms/step
+ERROR 08095.jpg is assigned brand 10Chevrolet
+  True brand is 7Bugatti
+
+1/1 [==============================] - 0s 127ms/step
+HIT 08096.jpg is assigned brand 3Astom Martin
+
+1/1 [==============================] - 0s 142ms/step
+HIT 08097.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 143ms/step
+HIT 08098.jpg is assigned brand 44Suzuki
+
+1/1 [==============================] - 0s 142ms/step
+ERROR 08099.jpg is assigned brand 19GMC
+  True brand is 18Ford
+
+1/1 [==============================] - 0s 141ms/step
+HIT 08100.jpg is assigned brand 11Chrysler
+
+1/1 [==============================] - 0s 126ms/step
+HIT 08101.jpg is assigned brand 37Nissan
+
+1/1 [==============================] - 0s 127ms/step
+ERROR 08102.jpg is assigned brand 23Hyundai
+  True brand is 35Mercedes-Benz
+
+1/1 [==============================] - 0s 143ms/step
+HIT 08103.jpg is assigned brand 46Toyota
+
+1/1 [==============================] - 0s 142ms/step
+HIT 08104.jpg is assigned brand 46Toyota
+
+1/1 [==============================] - 0s 157ms/step
+ERROR 08105.jpg is assigned brand 47Volkswagen
+  True brand is 13Dodge
+
+1/1 [==============================] - 0s 141ms/step
+HIT 08106.jpg is assigned brand 28Lamborghini
+
+1/1 [==============================] - 0s 141ms/step
+HIT 08107.jpg is assigned brand 11Chrysler
+
+1/1 [==============================] - 0s 144ms/step
+HIT 08108.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 140ms/step
+ERROR 08109.jpg is assigned brand 11Chrysler
+  True brand is 29Land Rover
+
+1/1 [==============================] - 0s 141ms/step
+HIT 08110.jpg is assigned brand 46Toyota
+
+1/1 [==============================] - 0s 127ms/step
+HIT 08111.jpg is assigned brand 37Nissan
+
+1/1 [==============================] - 0s 126ms/step
+HIT 08112.jpg is assigned brand 13Dodge
+
+1/1 [==============================] - 0s 117ms/step
+HIT 08113.jpg is assigned brand 18Ford
+
+1/1 [==============================] - 0s 110ms/step
+ERROR 08114.jpg is assigned brand 13Dodge
+  True brand is 35Mercedes-Benz
+
+1/1 [==============================] - 0s 110ms/step
+ERROR 08115.jpg is assigned brand 35Mercedes-Benz
+  True brand is 34McLaren
+
+1/1 [==============================] - 0s 109ms/step
+HIT 08116.jpg is assigned brand 35Mercedes-Benz
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08117.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 109ms/step
+HIT 08118.jpg is assigned brand 5BMW
+
+1/1 [==============================] - 0s 111ms/step
+HIT 08119.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08120.jpg is assigned brand 22Honda
+
+1/1 [==============================] - 0s 98ms/step
+ERROR 08121.jpg is assigned brand 6Bentley
+  True brand is 28Lamborghini
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08122.jpg is assigned brand 9Cadillac
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08123.jpg is assigned brand 42Scion
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08124.jpg is assigned brand 6Bentley
+
+1/1 [==============================] - 0s 111ms/step
+HIT 08125.jpg is assigned brand 10Chevrolet
+
+1/1 [==============================] - 0s 95ms/step
+ERROR 08126.jpg is assigned brand 23Hyundai
+  True brand is 18Ford
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08127.jpg is assigned brand 2Acura
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08128.jpg is assigned brand 18Ford
+
+1/1 [==============================] - 0s 94ms/step
+ERROR 08129.jpg is assigned brand 14Eagle
+  True brand is 7Bugatti
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08130.jpg is assigned brand 7Bugatti
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08131.jpg is assigned brand 19GMC
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08132.jpg is assigned brand 28Lamborghini
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08133.jpg is assigned brand 2Acura
+
+1/1 [==============================] - 0s 111ms/step
+HIT 08134.jpg is assigned brand 21HUMMER
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08135.jpg is assigned brand 13Dodge
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08136.jpg is assigned brand 46Toyota
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08137.jpg is assigned brand 4Audi
+
+1/1 [==============================] - 0s 109ms/step
+HIT 08138.jpg is assigned brand 44Suzuki
+
+1/1 [==============================] - 0s 109ms/step
+ERROR 08139.jpg is assigned brand 2Acura
+  True brand is 46Toyota
+
+1/1 [==============================] - 0s 111ms/step
+ERROR 08140.jpg is assigned brand 10Chevrolet
+  True brand is 11Chrysler
+
+1/1 [==============================] - 0s 110ms/step
+HIT 08141.jpg is assigned brand 49smart
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08142.jpg is assigned brand 35Mercedes-Benz
+
+1/1 [==============================] - 0s 109ms/step
+ERROR 08143.jpg is assigned brand 10Chevrolet
+  True brand is 18Ford
+
+1/1 [==============================] - 0s 94ms/step
+HIT 08144.jpg is assigned brand 4Audi
+
+
+Total hits = 104
+Total failures = 42
+Accuracy = 71.23287671232876%
+
+(alfonso1) c:\CarsBrands_Inceptionv3>
