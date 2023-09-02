@@ -25,9 +25,9 @@ Next, the structure created in the previous step is filled in by executing:
 
 FillDirKaggleCarsByBrand_1_49.py
 
-which part of the downloaded Stanford file is supposed to be located in C:\\archiveKaggle\\cars_train\\cars_train, if not, modify the FillDirKaggleCarsByBrand_1_49.py line 52 so that it points to where the Stanford file is located.
+As part of the downloaded Stanford file is supposed to be located in C:\\archiveKaggle\\cars_train\\cars_train, if not, modify the FillDirKaggleCarsByBrand_1_49.py line 52 so that it points to where the Stanford file is located.
 
-run the train:
+Run the train:
 
 TrainCarsBrandInception_v3CALLBACK_1_20.py
 which comes ready for 100 epoch, designed so that it can run in a reasonable time on a laptop.
