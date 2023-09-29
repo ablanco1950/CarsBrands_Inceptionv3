@@ -958,7 +958,7 @@ Accuracy = 71.23287671232876%
 Shows the results of the test with images from 8000.jpg to 8144.jpg, which have not been used as train or valid.
 
 
-The results of the training are shown in the attached file lr val_acc 49 epoch 800-900.txt and the results of the test with images from 8000.jpg to 8144.jpg, which have not been used as train or valid, in the file ResultsTestCarBrands.txt which is also attached
+The results of the training are also shown in the attached file lr val_acc 49 epoch 800-900.txt and the results of the test with images from 8000.jpg to 8144.jpg, which have not been used as train or valid, in the file ResultsTestCarBrands.txt which is also attached
 
 
 lrModelCarsBrands_Inception_v3_1_49.h5 is taken as the resulting file with the weigths, it could be changed by lrbest_brand_1_49.h5 created using the keras.callbacks.ModelCheckpoint (attention mechanism) , keep the one that gave better results. This .h5 files are very large (1.9Gb) so they could not be uploaded to Github
