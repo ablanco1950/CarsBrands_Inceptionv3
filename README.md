@@ -40,6 +40,8 @@ allows you to continue the epoch, taking advantage of the results of previous st
 
 In the 800-900 epoch range, acceptable results are obtained:
 
+
+
 (alfonso1) c:\CarsBrands_Inceptionv3>python lrTrainCarsBrandInception_v3CALLBACK_1_49CONTINUE.py
 C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\_distributor_init.py:30: UserWarning: loaded more than 1 DLL from .libs:
 C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\.libs\libopenblas.FB5AE2TYXYH2IJRDKGDGQ3XBKLKTF43H.gfortran-win_amd64.dll
