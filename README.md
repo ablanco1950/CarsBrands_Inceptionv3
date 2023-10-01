@@ -452,14 +452,19 @@ Epoch 900/900
 Epoch 900: val_acc did not improve from 0.74500
 10/10 [==============================] - 89s 9s/step - loss: 0.1985 - acc: 0.9750 - val_loss: 2.0407 - val_acc: 0.7180
 
-(alfonso1) c:\CarsBrands_Inceptionv3>
+(alfonso1) c:\CarsBrands_Inceptionv3
 </sub>
 
 
 The results of the test are evaluated by executing
 ==================================================
 
+
+
 lrGuessCarsBrandsKaggle_Inception_v3_1_49.py
+
+
+
 
 (alfonso1) c:\CarsBrands_Inceptionv3>python lrGuessCarsBrandsKaggle_Inception_v3_1_49.py
 C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\_distributor_init.py:30: UserWarning: loaded more than 1 DLL from .libs:
