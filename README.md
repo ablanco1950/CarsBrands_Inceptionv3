@@ -991,5 +991,5 @@ https://medium.com/analytics-vidhya/top-4-pre-trained-models-for-image-classific
 
 https://github.com/afaq-ahmad/Car-Models-and-Make-Classification-Standford_Car_dataset-mobilenetv2-imagenet-93-percent-accuracy/blob/master/Car_classification.ipynb
 
-https://github.com/ablanco1950/CarsBrands_Inceptionv3
-In this project, not only the success rate is improved (from 70% to 80%) but also the training time, going from needing 900 epochs to only 10.
+https://github.com/ablanco1950/CarsBrands_Resnet_Pytorch
+In this project,developed later, in December 2023, not only the success rate is improved (from 70% to 80%) but also the training time, going from needing 900 epochs to only 10.
